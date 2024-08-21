@@ -1,6 +1,8 @@
 # Electricity-Price-Prediction
 **1- Businuess Understanding**
-The dataset provides a comprehensive view of electricity demand and pricing in Victoria, Australia, during a period marked by significant economic and social disruptions due to the COVID-19 pandemic
+
+The dataset provides a comprehensive view of electricity demand and pricing in Victoria, Australia, 
+during a period marked by significant economic and social disruptions due to the COVID-19 pandemic
 
 * Main Goal: Predict the prices of electricity based on few independent variable.
 
